@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="MegaCities" id="MegaCities">
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Pop_1985" type="float"></SimpleField>
+	<SimpleField name="Pop_1990" type="float"></SimpleField>
+	<SimpleField name="Pop_1995" type="float"></SimpleField>
+	<SimpleField name="Pop_2000" type="float"></SimpleField>
+	<SimpleField name="Pop_2005" type="float"></SimpleField>
+	<SimpleField name="Pop_2010" type="float"></SimpleField>
+	<SimpleField name="Pop_2015" type="float"></SimpleField>
+</Schema>
+<Folder><name>MegaCities</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Tokyo</SimpleData>
+		<SimpleData name="Pop_1985">30.3</SimpleData>
+		<SimpleData name="Pop_1990">32.53</SimpleData>
+		<SimpleData name="Pop_1995">33.59</SimpleData>
+		<SimpleData name="Pop_2000">34.45</SimpleData>
+		<SimpleData name="Pop_2005">35.62</SimpleData>
+		<SimpleData name="Pop_2010">36.83</SimpleData>
+		<SimpleData name="Pop_2015">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.8088531,35.6840782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Delhi</SimpleData>
+		<SimpleData name="Pop_1985">7.33</SimpleData>
+		<SimpleData name="Pop_1990">9.73</SimpleData>
+		<SimpleData name="Pop_1995">12.41</SimpleData>
+		<SimpleData name="Pop_2000">15.73</SimpleData>
+		<SimpleData name="Pop_2005">18.67</SimpleData>
+		<SimpleData name="Pop_2010">21.94</SimpleData>
+		<SimpleData name="Pop_2015">25.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2169113,28.6341095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Shanghai</SimpleData>
+		<SimpleData name="Pop_1985">6.85</SimpleData>
+		<SimpleData name="Pop_1990">7.82</SimpleData>
+		<SimpleData name="Pop_1995">10.45</SimpleData>
+		<SimpleData name="Pop_2000">13.96</SimpleData>
+		<SimpleData name="Pop_2005">16.76</SimpleData>
+		<SimpleData name="Pop_2010">19.98</SimpleData>
+		<SimpleData name="Pop_2015">23.74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4737015,31.2303696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Sao Paulo</SimpleData>
+		<SimpleData name="Pop_1985">13.39</SimpleData>
+		<SimpleData name="Pop_1990">14.78</SimpleData>
+		<SimpleData name="Pop_1995">15.91</SimpleData>
+		<SimpleData name="Pop_2000">17.01</SimpleData>
+		<SimpleData name="Pop_2005">18.29</SimpleData>
+		<SimpleData name="Pop_2010">19.66</SimpleData>
+		<SimpleData name="Pop_2015">21.07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-46.6546783,-23.56287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Bombay</SimpleData>
+		<SimpleData name="Pop_1985">10.39</SimpleData>
+		<SimpleData name="Pop_1990">12.44</SimpleData>
+		<SimpleData name="Pop_1995">14.31</SimpleData>
+		<SimpleData name="Pop_2000">16.37</SimpleData>
+		<SimpleData name="Pop_2005">17.89</SimpleData>
+		<SimpleData name="Pop_2010">19.42</SimpleData>
+		<SimpleData name="Pop_2015">21.04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8348618,18.9401703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Mexico City</SimpleData>
+		<SimpleData name="Pop_1985">14.28</SimpleData>
+		<SimpleData name="Pop_1990">15.64</SimpleData>
+		<SimpleData name="Pop_1995">17.02</SimpleData>
+		<SimpleData name="Pop_2000">18.46</SimpleData>
+		<SimpleData name="Pop_2005">19.28</SimpleData>
+		<SimpleData name="Pop_2010">20.13</SimpleData>
+		<SimpleData name="Pop_2015">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1331482,19.4319401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Beijing</SimpleData>
+		<SimpleData name="Pop_1985">6.02</SimpleData>
+		<SimpleData name="Pop_1990">6.79</SimpleData>
+		<SimpleData name="Pop_1995">8.31</SimpleData>
+		<SimpleData name="Pop_2000">10.16</SimpleData>
+		<SimpleData name="Pop_2005">12.81</SimpleData>
+		<SimpleData name="Pop_2010">16.19</SimpleData>
+		<SimpleData name="Pop_2015">20.38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.4071732,39.9046898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Osaka</SimpleData>
+		<SimpleData name="Pop_1985">17.58</SimpleData>
+		<SimpleData name="Pop_1990">18.39</SimpleData>
+		<SimpleData name="Pop_1995">18.94</SimpleData>
+		<SimpleData name="Pop_2000">18.66</SimpleData>
+		<SimpleData name="Pop_2005">18.76</SimpleData>
+		<SimpleData name="Pop_2010">19.49</SimpleData>
+		<SimpleData name="Pop_2015">20.24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.5016022,34.6871414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Cairo</SimpleData>
+		<SimpleData name="Pop_1985">8.33</SimpleData>
+		<SimpleData name="Pop_1990">9.89</SimpleData>
+		<SimpleData name="Pop_1995">11.96</SimpleData>
+		<SimpleData name="Pop_2000">13.63</SimpleData>
+		<SimpleData name="Pop_2005">15.17</SimpleData>
+		<SimpleData name="Pop_2010">16.9</SimpleData>
+		<SimpleData name="Pop_2015">18.77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.2486,30.0499191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Newark</SimpleData>
+		<SimpleData name="Pop_1985">15.83</SimpleData>
+		<SimpleData name="Pop_1990">16.09</SimpleData>
+		<SimpleData name="Pop_1995">16.94</SimpleData>
+		<SimpleData name="Pop_2000">17.81</SimpleData>
+		<SimpleData name="Pop_2005">18.09</SimpleData>
+		<SimpleData name="Pop_2010">18.37</SimpleData>
+		<SimpleData name="Pop_2015">18.59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1742096,40.7319717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Dhaka</SimpleData>
+		<SimpleData name="Pop_1985">4.66</SimpleData>
+		<SimpleData name="Pop_1990">6.62</SimpleData>
+		<SimpleData name="Pop_1995">8.33</SimpleData>
+		<SimpleData name="Pop_2000">10.28</SimpleData>
+		<SimpleData name="Pop_2005">12.33</SimpleData>
+		<SimpleData name="Pop_2010">14.73</SimpleData>
+		<SimpleData name="Pop_2015">17.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>90.3995667,23.7132301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Karachi</SimpleData>
+		<SimpleData name="Pop_1985">6.03</SimpleData>
+		<SimpleData name="Pop_1990">7.15</SimpleData>
+		<SimpleData name="Pop_1995">8.47</SimpleData>
+		<SimpleData name="Pop_2000">10.03</SimpleData>
+		<SimpleData name="Pop_2005">11.89</SimpleData>
+		<SimpleData name="Pop_2010">14.08</SimpleData>
+		<SimpleData name="Pop_2015">16.62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0343704,24.9267101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Buenos Aires</SimpleData>
+		<SimpleData name="Pop_1985">9.96</SimpleData>
+		<SimpleData name="Pop_1990">10.51</SimpleData>
+		<SimpleData name="Pop_1995">11.39</SimpleData>
+		<SimpleData name="Pop_2000">12.41</SimpleData>
+		<SimpleData name="Pop_2005">13.33</SimpleData>
+		<SimpleData name="Pop_2010">14.25</SimpleData>
+		<SimpleData name="Pop_2015">15.18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3734398,-34.60849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Calcutta</SimpleData>
+		<SimpleData name="Pop_1985">9.95</SimpleData>
+		<SimpleData name="Pop_1990">10.89</SimpleData>
+		<SimpleData name="Pop_1995">11.92</SimpleData>
+		<SimpleData name="Pop_2000">13.06</SimpleData>
+		<SimpleData name="Pop_2005">13.7</SimpleData>
+		<SimpleData name="Pop_2010">14.28</SimpleData>
+		<SimpleData name="Pop_2015">14.86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>88.3712387,22.5705395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#MegaCities">
+		<SimpleData name="City">Istanbul</SimpleData>
+		<SimpleData name="Pop_1985">5.41</SimpleData>
+		<SimpleData name="Pop_1990">6.55</SimpleData>
+		<SimpleData name="Pop_1995">7.67</SimpleData>
+		<SimpleData name="Pop_2000">8.74</SimpleData>
+		<SimpleData name="Pop_2005">10.51</SimpleData>
+		<SimpleData name="Pop_2010">12.7</SimpleData>
+		<SimpleData name="Pop_2015">14.16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.9638004,41.0130005</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
